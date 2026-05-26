@@ -1,6 +1,3 @@
 function two(){
-  console.log("Function two running")
-}
-function bye(){
-  console.log("Byee...")
+  console.log("Final two")
 }
