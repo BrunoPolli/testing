@@ -1,3 +1,3 @@
 function three(){
-  console.log("Function three running")
+  console.log("Final three")
 }
